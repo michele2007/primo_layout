@@ -1,5 +1,13 @@
-.titolo {
+.titolo{
 
+font-family: 'Roboto',sans-serif;
 
+}
 
+.titolo_articolo_H2 {
+
+    font-size: 48px;
+    font-weight: bold;
+    line-height: 1;
+    
 }
